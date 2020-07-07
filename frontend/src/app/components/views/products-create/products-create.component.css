@@ -1,0 +1,30 @@
+.cProducts {
+    padding: 20px;
+}
+
+.cProducts .title {
+    font-size: 1.1rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.cProducts .subtitle {
+    font-size: 0.9rem;
+}
+
+.cProducts .content {
+    margin-top: 20px;
+}
+
+.salvar {
+    margin-right: 10px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin: 15px 20px 0 0;
+}

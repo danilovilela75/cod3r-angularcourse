@@ -14,6 +14,26 @@
       "id": 3,
       "name": "Samsung S10",
       "price": 5000.89
+    },
+    {
+      "name": "teste de produto",
+      "price": "1.99",
+      "id": 4
+    },
+    {
+      "name": "teste 2",
+      "price": "1.89",
+      "id": 5
+    },
+    {
+      "name": "Gostei muito deste modelo",
+      "price": "4.99",
+      "id": 6
+    },
+    {
+      "name": "Que massa",
+      "price": "1.99",
+      "id": 7
     }
   ]
 }
